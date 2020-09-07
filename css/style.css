@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+}
+
+.content-box-lg{
+    padding: 180px 0;
+}
+
+.content-box-md{
+    padding: 150px 0;
+}
+
+.content-box-sm{
+    padding: 100px 0;
+}
+
+.content-box{
+    padding: 80px 0;
+}
+
+.content{
+    padding: 40px 0;
+}
+
+.carousel-item {
+  height: 90vh;
+}
+
+.carousel-image-1 {
+  background:  linear-gradient(rgb(0,0,0, .4), rgb(0,0,0, .4)),url('../images/hero_3.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
+.carousel-image-2 {
+  background: linear-gradient(rgb(0,0,0, .4), rgb(0,0,0, .4)),url('../images/hero_2.jpg');
+  background-size: cover;
+}
+
+.font-oswald{
+    font-family: 'Oswald';
+}
