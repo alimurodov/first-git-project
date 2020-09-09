@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Rubik';
+    scroll-behavior: smooth;
+    list-style: none;
 }
 
 .content-box-lg{
@@ -30,16 +32,28 @@
 }
 
 .carousel-image-1 {
-  background:  linear-gradient(rgb(0,0,0, .4), rgb(0,0,0, .4)),url('../images/hero_3.jpg');
+  background:  linear-gradient(rgb(0,0,0, .6), rgb(0,0,0, .6)),url('../images/hero_3.jpg');
   background-size: cover;
   background-position: top;
 }
 
 .carousel-image-2 {
-  background: linear-gradient(rgb(0,0,0, .4), rgb(0,0,0, .4)),url('../images/hero_2.jpg');
+  background: linear-gradient(rgb(0,0,0, .6), rgb(0,0,0, .6)),url('../images/hero_2.jpg');
   background-size: cover;
 }
 
 .font-oswald{
     font-family: 'Oswald';
+}
+
+.bg-darks{
+    background-color: #222222;
+}
+
+.txt-warning{
+    color: #FF7C0E;
+}
+
+.flex{
+    display: flex;
 }
