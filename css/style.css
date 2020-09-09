@@ -57,3 +57,105 @@
 .flex{
     display: flex;
 }
+
+.odno{
+    background-color: #222222;
+
+}
+
+.Webs{
+    background: url('../images/hero_2.jpg');
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.sonlar{
+    text-align: center;
+}
+.son{
+    font-size: 85px;
+    color: #FF8B00;
+}
+.otish{
+    width: 70px;
+    border: 2px solid gray;
+    padding-left: 20px;
+}
+.soz{
+    font-size: 20px;
+    color: white;
+}
+
+.olok{
+    background-color: #222222;
+}
+
+#MAlumot{
+    background-color: #222222;
+}
+
+.team{
+    color: #FF8B00;
+    font-size: 50px;
+    font-family: "Oswald", sans-serif;
+}
+
+.Paragrif{
+    color: #939393;
+}
+
+.rasm{
+    width: 130px;
+    border-radius: 50%;
+    margin-left: 87px;
+}
+.o{
+    background-color: #333333;
+    padding: 20px 20px;
+    
+}
+.ode{
+    color: #FF8B00;
+    font-family: "Oswald", sans-serif;
+    
+
+}
+
+.tri{
+    color: #939393;
+}
+
+#Ma{
+    background-color: #222222;
+}
+.no{
+    color: white;
+    font-family: "Oswald", sans-serif;
+}
+.te{
+    color: #939393;
+}
+.pul{
+    font-size: 60px;
+    color: #FF8B00;
+}
+.oo{
+    background-color: #333333;
+}
+.noma{
+    color: #939393;
+}
+.list-unstyled{
+    list-style: none;
+    padding-left: 20px;
+    
+    text-align: left;
+}
+
+.btn-md{
+    padding: 8px 20px;
+}
+.btn-mdD{
+    padding: 8px 20px;
+    background-color: #FF8B00;
+}
