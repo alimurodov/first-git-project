@@ -159,3 +159,41 @@
     padding: 8px 20px;
     background-color: #FF8B00;
 }
+
+.odes{
+    font-size: 20px;
+    color: #FF8B00;
+    text-align: left;
+}
+.pard{
+    color: #939393;
+    text-align: left;
+}
+
+.oss{
+    font-family:  'Georgia', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    background-color: #333333;
+    padding: 15px 20px;
+}
+.card-oplo{
+    width: 400px;
+    text-align: center;
+    color: white;
+    
+    padding: 15px 20px;
+}
+
+.rasm-2{
+    border-radius: 50%;
+    
+}
+
+.ismlar{
+    font-family: "Oswald", sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+
